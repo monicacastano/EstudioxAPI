@@ -8,33 +8,32 @@ Cómo se construye el LRS? Que código se necesita cómo sería la estructura de
 
 https://github.com/adlnet/Starting-from-SCORM-A-Developers-Guide/blob/master/Instructions.md
 
-<b>TEORIA</b>
+#TEORIA
 
 http://tincanapi.com/try-developer/
 
-#Get started with Tin Can in my content
+<b>Get started with Tin Can in my content</b>
 http://tincanapi.com/content/
 
-#Implementar xAPI en Moodle muy buena explicación
+<b>Implementar xAPI en Moodle muy buena explicación</b>
 https://urjconline.atavist.com/untitled-project-52xv4
 
-#Artículo interesante de explicación
+<b>Artículo interesante de explicación</b>
 https://www.learnupon.com/xapi-scorm/
 
-#Doc en español explicación tin can api SCORM
+<b>Doc en español explicación tin can api SCORM</b>
 http://studylib.es/doc/4511651/seguimiento-de-completado.-para-saber-si-se-ha
 
-
-#Video explicación xAPI
+<b>Video explicación xAPI</b>
 http://kzoinnovations.com/kzo_watershed
 
-#de SCORM a xAPI
+<b>de SCORM a xAPI</b>
 https://adl.gitbooks.io/scorm-profile-xapi/content/xapi-scorm-profile.html
 
-#Get an LRS
+<b>Get an LRS</b>
 https://experienceapi.com/get-lrs/
 
-#Para verificar que el LMS cumple con el estandar xAPI
+<b>Para verificar que el LMS cumple con el estandar xAPI</b>
 https://experienceapi.com/conformance-test/
 https://github.com/adlnet/xAPI_LRS_Test/blob/master/TestingRequirements.md
 
@@ -42,103 +41,101 @@ http://riull.ull.es/xmlui/bitstream/handle/915/1407/Gamificacion%20del%20proceso
 
 #HERRAMIENTAS 
 
-Identificador único universal
+<b>Identificador único universal</b>
 https://www.uuidgenerator.net/
 http://www.ietf.org/rfc/rfc4122.txt
 
-#Tools
+<b>Tools
 http://adlnet.github.io/
 
-#Librerías
+<b>Librerías
 http://tincanapi.com/libraries/
 
-#Vocabulario de verbos y actividades
+<b>Vocabulario de verbos y actividades
 http://xapi.vocab.pub/datasets/adl/
 
-#Vocabulario de scorm
+<b>Vocabulario de scorm
 http://xapi.vocab.pub/datasets/scorm/
 Ejemplo generador statement
 http://projects.josemanuelmartin.com/tincan_ADL/tincan.html
 
-#Vocabulario: Ejemplo de Verbs and Activity types
+<b>Vocabulario: Ejemplo de Verbs and Activity types
 http://xapi.vocab.pub/datasets/adl/#module
 
 #IMPLEMENTACION
 
-Ejemplos Tin can api con instrucciones para ejecutarlos
+<b>Ejemplos Tin can api con instrucciones para ejecutarlos
 http://scorm.com/project-tin-can-phase-3-prototyping-tin-can-content-outside-of-the-lms/
 
-#Para implementar xAPI en SCORM 1.2 o 2004 usamos cmi5
+<b>Para implementar xAPI en SCORM 1.2 o 2004 usamos cmi5
 https://github.com/adlnet/SCORM-to-xAPI-Wrapper
 
-#Ejemplo que funciona SCORM 1.2
+<b>Ejemplo que funciona SCORM 1.2
 https://github.com/adlnet/SCORM-to-TLA-Roadmap/tree/master/examples/RosesCourseConversion
 
-#SCORM Driver, explicación de cómo usarlo NO USO COMERCIAL
+<b>SCORM Driver, explicación de cómo usarlo NO USO COMERCIAL
 https://experienceapi.com/driver-quickstart/driver-quickstart-step-1/
 https://experienceapi.com/tin-can-activities/
 
-#Documento que tienen la implementación de xAPI con buenos ejemplos
+<b>Documento que tienen la implementación de xAPI con buenos ejemplos
 http://eprints.ucm.es/26494/1/Memoria%20final%20digital.pdf
 Trabajo de edX y xAPI.pdf
 
-#Ejemplo de prueba de curso hecho en Storyline xAPI con SCORM Cloud (Solar system)
+<b>Ejemplo de prueba de curso hecho en Storyline xAPI con SCORM Cloud (Solar system)
 http://tincanapi.com/ready-to-play-with-storyline-and-tin-can/
 
-#Probar xAPI con un learner loker varios LRS
+<b>Probar xAPI con un learner loker varios LRS
 
 https://www.elearningguild.com
 Ejemplos http://tincanapi.com/prototypes/
 
-#Generador de declaraciones u oraciones:
+<b>Generador de declaraciones u oraciones:
 http://tincanapi.com/statement-generator/
 
-#xAPI con Moodle
+<b>xAPI con Moodle
 http://www.masquelearning.com/web2014/?p=2745
 http://support.scorm.com/hc/en-us/articles/206163216-Installing-the-SCORM-Cloud-Moodle-Module
 
-#Implementar xAPI
+<b>Implementar xAPI
 
 https://articulate.com/es-ES/support/article/Implementing-Tin-Can-API-to-Support-Articulate-Content
 
 https://cloud.scorm.com
 
-#Plataformas LRS, 5 ejemplos de plataformas
+<b>Plataformas LRS, 5 ejemplos de plataformas
 http://www.conasa.es/blog/primeros-pasos-con-xapi-5-lrs-para-ir-investigando-y-abriendo-boca/
 
 ----------
 https://watershedlrs.zendesk.com/hc/en-us/articles/206203970-xapiapps
 
-#Documentación
+<b>Documentación
 http://www.adlnet.gov/wp-content/uploads/2013/05/
 http://www.adlnet.gov/wp-content/uploads/2013/05/20130521_xAPI_v1.0.0-FINAL-correx.pdf
 
 
 http://tincanapi.com/wp-content/assets/tincan.xsd
 
-Primeras búsquedas:
+<b>Primeras búsquedas:
 http://ojulearning.es/2012/08/ya-esta-aqui-el-scorm-social/
 http://juanca.e-lexia.com/2014/03/la-educacion-avanza-al-ritmo-tin-can-api/
 
-OTROS SITIOS RELACIONADOS DE APOYO
+#OTROS SITIOS RELACIONADOS DE APOYO
 
 https://twitter.com/projecttincan
 
-PARA CREAR CURSOS SCORM 
+<b>PARA CREAR CURSOS SCORM 
 http://live.easygenerator.com
 monica123
 
-LMS chamilo Free
+<b>LMS chamilo Free
 https://campus.chamilo.org
 usuario monica123456
 monica123
 
-Blog  saltbox
+<b>Blog  saltbox
 http://blog.saltbox.com/blog/2012/11/28/making-statements-tin-can-api-best-practices/
 
-
-Revista elearning
-
+<b>Revista elearning
 http://viewer.zmags.com/publication/f1aef9f9#/f1aef9f9/192
 
 Documentación de pronto sirve
@@ -150,5 +147,4 @@ Sitio muy ejemplo gamificación y xAPI
 https://blog.captainup.com/
 https://captainup.com/solutions/commerce
 
-https://github.com/
-monicacastano
+
