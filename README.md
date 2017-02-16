@@ -9,7 +9,7 @@ Cómo se construye el LRS? Que código se necesita cómo sería la estructura de
 
 https://github.com/adlnet/Starting-from-SCORM-A-Developers-Guide/blob/master/Instructions.md
 
-TEORIA
+<b>TEORIA</b>
 
 http://tincanapi.com/try-developer/
 
