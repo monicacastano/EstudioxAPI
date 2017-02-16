@@ -45,77 +45,77 @@ http://riull.ull.es/xmlui/bitstream/handle/915/1407/Gamificacion%20del%20proceso
 https://www.uuidgenerator.net/
 http://www.ietf.org/rfc/rfc4122.txt
 
-<b>Tools
+<b>Tools</b>
 http://adlnet.github.io/
 
-<b>Librerías
+<b>Librerías</b>
 http://tincanapi.com/libraries/
 
-<b>Vocabulario de verbos y actividades
+<b>Vocabulario de verbos y actividades</b>
 http://xapi.vocab.pub/datasets/adl/
 
-<b>Vocabulario de scorm
+<b>Vocabulario de scorm</b>
 http://xapi.vocab.pub/datasets/scorm/
-Ejemplo generador statement
+
+<b>Ejemplo generador statement</b>
 http://projects.josemanuelmartin.com/tincan_ADL/tincan.html
 
-<b>Vocabulario: Ejemplo de Verbs and Activity types
+<b>Vocabulario: Ejemplo de Verbs and Activity types</b>
 http://xapi.vocab.pub/datasets/adl/#module
 
 #IMPLEMENTACION
 
-<b>Ejemplos Tin can api con instrucciones para ejecutarlos
+<b>Ejemplos Tin can api con instrucciones para ejecutarlos</b>
 http://scorm.com/project-tin-can-phase-3-prototyping-tin-can-content-outside-of-the-lms/
 
-<b>Para implementar xAPI en SCORM 1.2 o 2004 usamos cmi5
+<b>Para implementar xAPI en SCORM 1.2 o 2004 usamos cmi5</b>
 https://github.com/adlnet/SCORM-to-xAPI-Wrapper
 
-<b>Ejemplo que funciona SCORM 1.2
+<b>Ejemplo que funciona SCORM 1.2</b>
 https://github.com/adlnet/SCORM-to-TLA-Roadmap/tree/master/examples/RosesCourseConversion
 
-<b>SCORM Driver, explicación de cómo usarlo NO USO COMERCIAL
+<b>SCORM Driver, explicación de cómo usarlo NO USO COMERCIAL</b>
 https://experienceapi.com/driver-quickstart/driver-quickstart-step-1/
 https://experienceapi.com/tin-can-activities/
 
-<b>Documento que tienen la implementación de xAPI con buenos ejemplos
+<b>Documento que tienen la implementación de xAPI con buenos ejemplos</b>
 http://eprints.ucm.es/26494/1/Memoria%20final%20digital.pdf
 Trabajo de edX y xAPI.pdf
 
-<b>Ejemplo de prueba de curso hecho en Storyline xAPI con SCORM Cloud (Solar system)
+<b>Ejemplo de prueba de curso hecho en Storyline xAPI con SCORM Cloud (Solar system)</b>
 http://tincanapi.com/ready-to-play-with-storyline-and-tin-can/
 
-<b>Probar xAPI con un learner loker varios LRS
+<b>Probar xAPI con un learner loker varios LRS</b>
 
 https://www.elearningguild.com
 Ejemplos http://tincanapi.com/prototypes/
 
-<b>Generador de declaraciones u oraciones:
+<b>Generador de declaraciones u oraciones:</b>
 http://tincanapi.com/statement-generator/
 
-<b>xAPI con Moodle
+<b>xAPI con Moodle</b>
 http://www.masquelearning.com/web2014/?p=2745
 http://support.scorm.com/hc/en-us/articles/206163216-Installing-the-SCORM-Cloud-Moodle-Module
 
-<b>Implementar xAPI
+<b>Implementar xAPI</b>
 
 https://articulate.com/es-ES/support/article/Implementing-Tin-Can-API-to-Support-Articulate-Content
 
 https://cloud.scorm.com
 
-<b>Plataformas LRS, 5 ejemplos de plataformas
+<b>Plataformas LRS, 5 ejemplos de plataformas</b>
 http://www.conasa.es/blog/primeros-pasos-con-xapi-5-lrs-para-ir-investigando-y-abriendo-boca/
 
 ----------
 https://watershedlrs.zendesk.com/hc/en-us/articles/206203970-xapiapps
 
-<b>Documentación
+<b>Documentación</b>
 http://www.adlnet.gov/wp-content/uploads/2013/05/
 http://www.adlnet.gov/wp-content/uploads/2013/05/20130521_xAPI_v1.0.0-FINAL-correx.pdf
 
-
 http://tincanapi.com/wp-content/assets/tincan.xsd
 
-<b>Primeras búsquedas:
+<b>Primeras búsquedas:</b>
 http://ojulearning.es/2012/08/ya-esta-aqui-el-scorm-social/
 http://juanca.e-lexia.com/2014/03/la-educacion-avanza-al-ritmo-tin-can-api/
 
@@ -123,19 +123,17 @@ http://juanca.e-lexia.com/2014/03/la-educacion-avanza-al-ritmo-tin-can-api/
 
 https://twitter.com/projecttincan
 
-<b>PARA CREAR CURSOS SCORM 
+<b>PARA CREAR CURSOS SCORM </b>
 http://live.easygenerator.com
 monica123
 
-<b>LMS chamilo Free
+<b>LMS chamilo Free</b>
 https://campus.chamilo.org
-usuario monica123456
-monica123
 
-<b>Blog  saltbox
+<b>Blog  saltbox</b>
 http://blog.saltbox.com/blog/2012/11/28/making-statements-tin-can-api-best-practices/
 
-<b>Revista elearning
+<b>Revista elearning</b>
 http://viewer.zmags.com/publication/f1aef9f9#/f1aef9f9/192
 
 Documentación de pronto sirve
@@ -143,7 +141,7 @@ http://www.immagic.com/eLibrary/ARCHIVES/TECH/AICC_US/A040816G.pdf
 
 https://www.elearningguild.com
 
-Sitio muy ejemplo gamificación y xAPI
+<b>Sitio muy ejemplo gamificación y xAPI</b>
 https://blog.captainup.com/
 https://captainup.com/solutions/commerce
 
